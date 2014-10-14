@@ -18,7 +18,7 @@ No coding necessary.
 
 Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on a theme to style it.
 
-This plugin is also used to power the [Email Page Lead](http://kolakube.com/md/#page-lead/) by Kolakube.
+This plugin is also used to power the [Email Page Lead](http://kolakube.com/md/#page-leads) by Kolakube.
 
 == Installation ==
 

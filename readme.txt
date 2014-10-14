@@ -8,15 +8,21 @@ Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily connect to an email service like AWeber or MailChimp to display email signup forms throughout your website with a simple widget.
+The easiest way to connect to email services like AWeber or MailChimp to display email signup forms throughout your website with a widget.
 
 == Description ==
 
-Easily connect to an email service like AWeber or MailChimp to display email signup forms throughout your website with a simple widget.
+The easiest plugin you’ve ever used to add email signup forms to your website. Connect to MailChimp and AWeber (other services coming soon) in 2 easy steps and place unlimited email signup forms throughout your site.
+
+No coding necessary.
+
+Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on a theme to style it.
+
+This plugin is also used to power the [Email Page Lead](http://kolakube.com/md/#page-lead/) by Kolakube.
 
 == Installation ==
 
-1. Upload `kol-email-forms` to the `/wp-content/plugins/` directory
+1. Upload `kolakube-email-forms` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Tools > Email Service Setup to follow onscreen instructions to connect to your email service (or choose your own custom form code)
 4. Once connected, you can now use the 'Kolakube Email Signup Form' widget in the Appearance > Widgets admin screen.

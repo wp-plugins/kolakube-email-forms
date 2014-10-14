@@ -8,7 +8,7 @@ Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Connect to email services and start displaying email signup form widgets in 2 easy steps.
+Connects to AWeber or Mailchimp in 2 easy steps so you can start displaying email signup form widgets on your website.
 
 == Description ==
 

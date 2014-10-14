@@ -26,6 +26,7 @@ This plugin is also used to power the [Email Page Lead](http://kolakube.com/mark
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Tools > Email Service Setup to follow onscreen instructions to connect to your email service (or choose your own custom form code)
 4. Once connected, you can now use the 'Kolakube Email Signup Form' widget in the Appearance > Widgets admin screen.
+5. [For articles and video guides, check out documentation](http://kolakube.com/email-forms/build/use/)
 
 == Frequently Asked Questions ==
 

@@ -20,6 +20,8 @@ Kolakube Email Forms does its best to inherit your theme’s CSS styles and offe
 
 This plugin is also used to power the [Email Page Lead](http://kolakube.com/marketers-delight/#page-leads) and is fully compatible with the [Marketers Delight](http://kolakube.com/marketers-delight/) theme.
 
+[Follow development on GitHub](https://github.com/alexmangini/kolakube-email-forms)
+
 == Installation ==
 
 1. Upload `kolakube-email-forms` to the `/wp-content/plugins/` directory

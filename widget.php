@@ -65,7 +65,7 @@ class kol_email_form extends WP_Widget {
 		$desc  = $val['desc'];
 		$list  = $val['list'];
 
-		$blog_only = $val['blog_only'];
+		$blog_only = isset( $val['blog_only'] ) ? $val['blog_only'] : '';
 
 		if ( ! empty( $blog_only ) && ! is_home() )
 			return;

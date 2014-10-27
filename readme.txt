@@ -12,7 +12,7 @@ Connects to AWeber or MailChimp in 2 easy steps so you can start displaying emai
 
 == Description ==
 
-The easiest plugin you’ve ever used to add email signup forms to your website. Connect to MailChimp and AWeber (other services coming soon) in 2 easy steps and place unlimited email signup forms throughout your site.
+The easiest plugin you’ve ever used to add email signup forms to your website. Connect to MailChimp and AWeber (other services coming soon) in 2 easy steps and place unlimited email signup forms throughout your site. [Watch this quick demonstration video](http://quick.as/vkoauz2l).
 
 No coding necessary.
 

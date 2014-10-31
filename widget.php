@@ -65,7 +65,7 @@ class kol_email_form extends WP_Widget {
 		$desc  = $val['desc'];
 		$list  = $val['list'];
 
-		$blog_only = $val['blog_only'];
+		$blog_only = isset( $val['blog_only'] ) ? $val['blog_only'] : '';
 
 		if ( ! empty( $blog_only ) && ! is_home() )
 			return;
@@ -165,7 +165,7 @@ class kol_email_form extends WP_Widget {
 						<input type="text" name="<?php esc_attr_e( $att_name ); ?>" id="kol-email-field-name" class="kol-email-field-name form-input icon-name" placeholder="<?php echo $label_name; ?>" />
 					<?php endif; ?>
 
-					<input type="email" name="<?php esc_attr_e( $att_email ); ?>" id="kol-email-field-email" placeholder="<?php echo $label_email; ?>" class="kol-email-field-name form-input icon-email" />
+					<input type="email" name="<?php esc_attr_e( $att_email ); ?>" id="kol-email-field-email" placeholder="<?php echo $label_email; ?>" class="kol-email-field-email form-input icon-email" />
 
 					<?php if ( $service == 'aweber' && ! empty( $image ) ) : ?>
 						<img src="http://forms.aweber.com/form/displays.htm?id=<?php esc_attr_e( $image ); ?>" style="display: none;" alt="" />

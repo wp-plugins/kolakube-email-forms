@@ -3,7 +3,7 @@
  * Plugin Name: Kolakube Email Forms
  * Plugin URI: http://kolakube.com/
  * Description: Easily connect to an email service like AWeber or MailChimp to display email signup forms throughout your website with a simple widget.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Alex Mangini
  * Author URI: http://kolakube.com/about/
  * Author email: alex@kolakube.com

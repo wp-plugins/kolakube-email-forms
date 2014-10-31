@@ -54,8 +54,15 @@ No, this plugin specializes in just outputting your forms and offers no styling 
 
 == Changelog ==
 
+= 1.0.2 =
+* Just a quick fix that adds a unique class name to the email input field so it can be targeted with CSS.
+
+= 1.0.1 =
+* Added a new feature that let's you display this form ONLY on your blog homepage
+* Updated core files to better meet WordPress coding standards (thanks Rob Neu)
+
 = 1.0 =
-* Getting this beast out into the world. :)
+* Released to the world
 
 == Arbitrary section ==
 

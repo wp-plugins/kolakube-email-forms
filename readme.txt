@@ -3,22 +3,24 @@ Contributors: alexmangini
 Donate link: http://kolakube.com/
 Tags: email forms widget, email signup forms, web forms, optin forms, aweber, mailchimp
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.2.3
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Connects to AWeber or MailChimp in 2 easy steps so you can start displaying email signup form widgets throughout your website.
+Connects to AWeber or MailChimp in 2 easy steps so you can start displaying email signup form widgets throughout your site.
 
 == Description ==
 
-The easiest plugin you’ve ever used to add email signup forms to your website. Connect to MailChimp and AWeber (other services coming soon) in 2 easy steps and place unlimited email signup forms throughout your site. [Watch this quick demonstration video](http://quick.as/vkoauz2l).
+Adding email signup forms to your blog has never been easier.
 
-No coding necessary.
+In 2 easy steps, connect to either MailChimp, AWeber, or use your custom form code to begin placing email signup forms throughout your blog. It’s easy, just drag a Widget.
 
-Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on a theme to style it.
+[Watch this quick demonstration video &rarr;]
 
-This plugin is also used to power the [Email Page Lead](http://kolakube.com/marketers-delight/#page-leads) and is fully compatible with the [Marketers Delight](http://kolakube.com/marketers-delight/) theme.
+Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on your theme to style it (can easily be tweaked with CSS).
+
+NOTE: more email services will be added soon. More control of email forms are included in [Marketers Delight](https://kolakube.com/marketers-delight/].
 
 == Installation ==
 

@@ -20,7 +20,7 @@ In 2 easy steps, connect to either MailChimp, AWeber, or use your custom form co
 
 Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on your theme to style it (can easily be tweaked with CSS).
 
-NOTE: more email services will be added soon. Please leave a review and tell me about your experience using this plugin!
+NOTE: more email services will be added soon. Please leave a review and tell me about your experience using this plugin! More features available in [Marketers Delight](https://kolakube.com/marketers-delight/)
 
 == Installation ==
 

@@ -16,11 +16,11 @@ Adding email signup forms to your blog has never been easier.
 
 In 2 easy steps, connect to either MailChimp, AWeber, or use your custom form code to begin placing email signup forms throughout your blog. It’s easy, just drag a Widget.
 
-[Watch this quick demonstration video &rarr;]
+[Watch this quick demonstration video &rarr;](http://quick.as/vkoauz2l)
 
 Kolakube Email Forms does its best to inherit your theme’s CSS styles and offers no design options. This strictly outputs email form codes and relies on your theme to style it (can easily be tweaked with CSS).
 
-NOTE: more email services will be added soon. More control of email forms are included in [Marketers Delight](https://kolakube.com/marketers-delight/].
+NOTE: more email services will be added soon. More control of email forms are included in [Marketers Delight](https://kolakube.com/marketers-delight/).
 
 == Installation ==
 

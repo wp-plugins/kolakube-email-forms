@@ -38,7 +38,7 @@ As more email services are included in this plugin (like GetResponse and Constan
 
 = Can I customize email forms with this plugin? =
 
-No, this plugin specializes in just outputting your forms and offers no styling or design functionality. The form code has been built to integrate into any WordPress theme and inherit their styles the best it can.
+Yes, the form will style to match with your theme and can be further customized with CSS in a [child theme](https://codex.wordpress.org/Child_Themes#Why_use_a_Child_Theme.3F).
 
 == Screenshots ==
 
@@ -65,12 +65,6 @@ No, this plugin specializes in just outputting your forms and offers no styling 
 
 = 1.0 =
 * Released to the world
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
 
 == Upgrade Notice ==
 

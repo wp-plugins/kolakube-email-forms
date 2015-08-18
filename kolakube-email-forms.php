@@ -9,7 +9,7 @@
  * Author email: alex@kolakube.com
  * License: GPL-2.0+
  * Requires at least: 3.8
- * Tested up to: 4.0
+ * Tested up to: 4.3
  * Text Domain: kol-email-forms
  * Domain Path: /languages/
  *

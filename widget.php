@@ -43,7 +43,7 @@ class kol_email_form extends WP_Widget {
 	public function __construct() {
 		global $kol_email;
 
-		$this->WP_Widget(
+		parent::__construct(
 			'kol_email',
 			$kol_email->strings['widget_name'],
 			array(

@@ -3,7 +3,7 @@ Contributors: alexmangini
 Donate link: http://kolakube.com/
 Tags: email forms widget, email signup forms, web forms, optin forms, aweber, mailchimp
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.3
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -54,8 +54,15 @@ No, this plugin specializes in just outputting your forms and offers no styling 
 
 == Changelog ==
 
+= 1.0.2 =
+* Just a quick fix that adds a unique class name to the email input field so it can be targeted with CSS.
+
+= 1.0.1 =
+* Added a new feature that let's you display this form ONLY on your blog homepage
+* Updated core files to better meet WordPress coding standards (thanks Rob Neu)
+
 = 1.0 =
-* Getting this beast out into the world. :)
+* Released to the world
 
 == Arbitrary section ==
 
@@ -65,5 +72,3 @@ plugins where more information needs to be conveyed that doesn't fit into the ca
 
 == Upgrade Notice ==
 
-= 1.0 =
-Get the plugin.
